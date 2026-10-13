@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@tanstack/react-query": "^5.104.2",
+    "lucide-react": "^1.56.0",
+    "recharts": "^3.10.1",
+    "viem": "^2.57.5",
+    "zod": "^4.6.7"
+  }
+}
